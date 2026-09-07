@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./assets/ai-network.svg" width="100%" alt="AI network visualization banner" />
+<img src="./ai-network.svg" width="100%" alt="AI network visualization banner" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:0A0E14&height=140&section=header&text=Bharathvaj%20N.&fontSize=46&fontColor=64FFDA&fontAlignY=45&desc=AI/ML%20Developer&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" alt="Bharathvaj N. — AI/ML Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,100:0A0E14&height=140&section=header&text=Bharathvaj%20N.&fontSize=46&fontColor=64FFDA&fontAlignY=45&desc=AI/ML%20Developer&descAlignY=65&descAlign=50&animation=fadeIn" width="100%" alt="Bharathvaj N — AI/ML Developer" />
 
 <a href="https://github.com/bharathvaj-n">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=650&lines=Building+intelligent+systems+that+turn+data+into+real-world+solutions.;B.Sc+AI+%26+Machine+Learning+%40+Rathinam+College;Python+%7C+Machine+Learning+%7C+Deep+Learning+%7C+Full+Stack" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 ## ⟡ About Me
 
-I'm a **B.Sc Artificial Intelligence & Machine Learning** student at Rathinam College of Arts and Science, building practical, real-world solutions with **Python** and **machine learning**. I'm particularly interested in **AI-powered applications** — from computer vision and audio AI to generative AI and RAG systems — and I enjoy the full arc of a project, from exploring data to shipping something usable.
+I'm a **B.Sc Artificial Intelligence & Machine Learning** student at Rathinam Global Deemed to be University, building practical, real-world solutions with **Python** and **machine learning**. I'm particularly interested in **AI-powered applications** — from computer vision and audio AI to generative AI and RAG systems — and I enjoy the full arc of a project, from exploring data to shipping something usable.
 
 Outside of ML, I also build full-stack web applications, which keeps my engineering practical and product-focused rather than purely academic.
 
