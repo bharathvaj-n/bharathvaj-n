@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ai-network.svg" width="100%" alt="AI and machine learning network visualization" />
+<img src="./ai-network.svg" width="100%" alt="AI and machine learning network visualization" />
 
 <br/>
 
@@ -32,7 +32,7 @@ Outside of ML, I also build full-stack web applications, which keeps my engineer
 ## ⟡ Tech Stack
 
 <div align="center">
-<img src="./assets/tech-stack.svg" width="100%" alt="Technology stack visualization — AI/ML, web development, database, and tools" />
+<img src="./tech-stack.svg" width="100%" alt="Technology stack visualization — AI/ML, web development, database, and tools" />
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ Outside of ML, I also build full-stack web applications, which keeps my engineer
 
 ### 🎯 VoiceGuard AI &nbsp;<sub><sup>flagship project</sup></sub>
 
-<img src="./assets/voiceguard-ai.svg" width="100%" alt="VoiceGuard AI — multimodal deepfake detection visualization" />
+<img src="./voiceguard-ai.svg" width="100%" alt="VoiceGuard AI — multimodal deepfake detection visualization" />
 
 An **AI-powered multimodal deepfake detection** system focused on identifying manipulated audio and video content.
 
@@ -170,7 +170,7 @@ An in-progress project — repository is newly created with no public code yet.
 ## ⟡ Contribution Activity
 
 <div align="center">
-<img src="./assets/contribution-frame.svg" width="100%" alt="Decorative 3D data-landscape frame" />
+<img src="./contribution-frame.svg" width="100%" alt="Decorative 3D data-landscape frame" />
 <img src="https://raw.githubusercontent.com/bharathvaj-n/bharathvaj-n/output/contribution-snake-dark.svg" width="100%" alt="Animated contribution snake" />
 </div>
 
@@ -240,7 +240,7 @@ Deploy a practical solution
 
 <div align="center">
 
-<a href="[[YOUR LINKEDIN URL]](https://www.linkedin.com/in/bharathvaj-n-41b23433a/)">
+<a href="https://www.linkedin.com/in/bharathvaj-n-41b23433a/">
 <img src="https://img.shields.io/badge/LinkedIn-050B14?style=for-the-badge&logo=linkedin&logoColor=00D4FF" />
 </a>
 <a href="https://github.com/bharathvaj-n">
@@ -255,6 +255,6 @@ Deploy a practical solution
 <br/>
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="footer" />
+<img src="./footer.svg" width="100%" alt="footer" />
 <img src="https://komarev.com/ghpvc/?username=bharathvaj-n&label=Profile%20Views&color=00D4FF&style=flat-square" alt="profile views"/>
 </div>
